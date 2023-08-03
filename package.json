@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "repository": "https://github.com/crealgo/pancakes-eslint-config.git",
   "publisher": "Crealgo, LLC",
-  "main": "./src/index.js",
+  "main": "./src/eslint.config.js",
   "peerDependencies": {
     "eslint": "8.x.x",
     "typescript": "5.x.x"

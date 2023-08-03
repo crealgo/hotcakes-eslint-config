@@ -17,19 +17,8 @@ module.exports = {
 		'plugin:@typescript-eslint/recommended',
 		'xo',
 		'xo-typescript',
-		'xo-react',
 	],
 	rules: {
-		'react/react-in-jsx-scope': 'off',
-		'react/prop-types': 'off',
-		'react/function-component-definition': [
-			'error',
-			{
-				namedComponents: 'arrow-function',
-			},
-		],
-		'react/no-array-index-key': 'off',
-		'react/require-default-props': 'off',
 		'implicit-arrow-linebreak': ['error', 'beside'],
 		'no-warning-comments': 'off',
 		'no-useless-rename': 'error',

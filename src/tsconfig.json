@@ -4,9 +4,6 @@
       "DOM",
       "ESNext"
     ],
-    "rootDirs": [
-      "src"
-    ],
     "allowJs": true,
     "skipLibCheck": true,
     "esModuleInterop": true,
@@ -35,6 +32,5 @@
     "out",
     "dist",
     ".next",
-    ".eslintrc.js"
   ],
 }
