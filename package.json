@@ -1,22 +1,9 @@
 {
-  "name": "@crealgo/blocks-eslint-config",
+  "name": "@crealgo/pancakes-eslint-config",
   "version": "1.0.0",
-  "scripts": {
-    "dev": "tsx watch ./src",
-    "build": "tsx ./src"
-  },
-  "browserslist": {
-    "production": [
-      ">0.2%",
-      "not dead",
-      "not op_mini all"
-    ],
-    "development": [
-      "last 1 chrome version",
-      "last 1 firefox version",
-      "last 1 safari version"
-    ]
-  },
+  "repository": "https://github.com/manasc/pancakes-eslint-config.git",
+  "publisher": "Crealgo, LLC",
+  "main": "./src/index.js",
   "peerDependencies": {
     "eslint": "8.x.x",
     "typescript": "5.x.x"
