@@ -1,0 +1,25 @@
+{
+	"compilerOptions": {
+		"lib": [
+			"ES6",
+			"DOM"
+		],
+		"forceConsistentCasingInFileNames": true,
+		"allowJs": true,
+		"checkJs": true,
+		"strict": true,
+		"alwaysStrict": true,
+		"module": "ES6",
+		"target": "ES6",
+		"allowUmdGlobalAccess": true,
+		"moduleResolution": "node",
+		"resolveJsonModule": true,
+		"noEmit": true,
+		"jsx": "react-jsx",
+		"sourceMap": false,
+		"incremental": true
+	},
+	"include": [
+		"__tests__"
+	],
+}
