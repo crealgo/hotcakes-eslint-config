@@ -4,4 +4,4 @@ indent_style = tab
 
 [*.{cjs,mjs,js,jsx,ts,tsx}]
 indent_size = 4
-indent_style = space
+indent_style = tab
