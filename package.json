@@ -36,7 +36,7 @@
 		"xo": "0.x"
 	},
 	"devDependencies": {
-		"@crealgo/pancakes-core": "^1.0.1",
+		"@crealgo/pancakes-core": "^1.0.3",
 		"@types/react": "^18.2.18",
 		"@types/react-dom": "^18.2.7",
 		"eslint": "^8.46.0",
