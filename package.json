@@ -1,6 +1,6 @@
 {
 	"name": "@crealgo/eslint-config-pancakes",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"repository": "https://github.com/crealgo/pancakes-eslint-config.git",
 	"publisher": "Crealgo, LLC",
 	"publishConfig": {
