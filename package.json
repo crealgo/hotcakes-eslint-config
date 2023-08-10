@@ -8,7 +8,7 @@
 		"tag": "latest"
 	},
 	"scripts": {
-		"prepublishOnly": "npm version"
+		"prepublishOnly": "npm version patch"
 	},
 	"peerDependencies": {
 		"@rushstack/eslint-patch": "1.x",
