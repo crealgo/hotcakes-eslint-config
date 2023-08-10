@@ -7,6 +7,9 @@
 		"access": "public",
 		"tag": "latest"
 	},
+	"scripts": {
+		"prepublishOnly": "npm version"
+	},
 	"peerDependencies": {
 		"@rushstack/eslint-patch": "1.x",
 		"@typescript-eslint/eslint-plugin": "6.x",
