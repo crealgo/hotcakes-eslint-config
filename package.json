@@ -1,14 +1,11 @@
 {
 	"name": "@crealgo/eslint-config-pancakes",
-	"version": "1.0.8",
+	"version": "1.0.4",
 	"repository": "https://github.com/crealgo/pancakes-eslint-config.git",
 	"author": "Crealgo, LLC <hello.crealgo@gmail.com> (https://crealgo.com)",
 	"publishConfig": {
 		"access": "public",
 		"tag": "latest"
-	},
-	"scripts": {
-		"prepublishOnly": "npm version patch"
 	},
 	"peerDependencies": {
 		"@rushstack/eslint-patch": "1.x",
@@ -34,11 +31,12 @@
 		"eslint-plugin-react": "7.x",
 		"eslint-plugin-react-hooks": "4.x",
 		"lodash": "4.x",
+		"react": "18.x",
 		"react-dom": "18.x",
-		"xo": "0.x",
-		"react": "18.x"
+		"xo": "0.x"
 	},
 	"devDependencies": {
+		"@crealgo/pancakes-core": "^1.0.1",
 		"@types/react": "^18.2.18",
 		"@types/react-dom": "^18.2.7",
 		"eslint": "^8.46.0",
