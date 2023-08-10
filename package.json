@@ -7,7 +7,6 @@
 		"access": "public",
 		"tag": "latest"
 	},
-	"main": ".",
 	"peerDependencies": {
 		"@rushstack/eslint-patch": "1.x",
 		"@typescript-eslint/eslint-plugin": "6.x",
