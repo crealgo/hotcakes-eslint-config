@@ -9,5 +9,5 @@ on:
 
 jobs:
   release:
-    uses: crealgo/hotcakes-core/.github/workflows/semantic-release.yml@v1
+    uses: crealgo/hotcakes-core/.github/workflows/semantic-release.yml@main
     secrets: inherit
