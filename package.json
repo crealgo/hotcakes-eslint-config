@@ -1,7 +1,7 @@
 {
 	"name": "@hotcakes/eslint-config",
 	"version": "1.0.8",
-	"repository": "https://github.com/crealgo/pancakes-eslint-config.git",
+	"repository": "https://github.com/crealgo/hotcakes-eslint-config.git",
 	"author": "Crealgo, LLC <hello.crealgo@gmail.com> (https://crealgo.com)",
 	"publishConfig": {
 		"access": "public",
