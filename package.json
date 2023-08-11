@@ -1,25 +1,11 @@
 {
-	"name": "@crealgo/eslint-config-pancakes",
+	"name": "@hotcakes/eslint-config",
 	"version": "1.0.8",
 	"repository": "https://github.com/crealgo/pancakes-eslint-config.git",
 	"author": "Crealgo, LLC <hello.crealgo@gmail.com> (https://crealgo.com)",
 	"publishConfig": {
 		"access": "public",
 		"tag": "latest"
-	},
-	"peerDependencies": {
-		"@rushstack/eslint-patch": "1.x",
-		"@typescript-eslint/eslint-plugin": "6.x",
-		"@typescript-eslint/parser": "6.x",
-		"eslint-config-xo": "0.x",
-		"eslint-config-xo-react": "0.x",
-		"eslint-config-xo-typescript": "1.x",
-		"eslint-plugin-react": "7.x",
-		"eslint-plugin-react-hooks": "4.x",
-		"lodash": "4.x",
-		"react": "18.x",
-		"react-dom": "18.x",
-		"xo": "0.x"
 	},
 	"dependencies": {
 		"@rushstack/eslint-patch": "1.x",
@@ -36,7 +22,7 @@
 		"xo": "0.x"
 	},
 	"devDependencies": {
-		"@crealgo/pancakes-core": "^1.0.3",
+		"@hotcakes/core": "^1.5.0",
 		"@types/react": "^18.2.18",
 		"@types/react-dom": "^18.2.7",
 		"eslint": "^8.46.0",
