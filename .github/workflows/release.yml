@@ -7,6 +7,12 @@ on:
 
   workflow_dispatch:
 
+permissions:
+  contents: write
+  issues: write
+  pull-requests: write
+  id-token: write
+
 jobs:
   release:
     uses: crealgo/hotcakes-core/.github/workflows/semantic-release.yml@main
