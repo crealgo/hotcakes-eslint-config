@@ -1,6 +1,6 @@
 {
 	"name": "@hotcakes/eslint-config",
-	"version": "1.0.8",
+	"version": "1.0.0",
 	"repository": "https://github.com/crealgo/hotcakes-eslint-config.git",
 	"author": "Crealgo, LLC <hello.crealgo@gmail.com> (https://crealgo.com)",
 	"publishConfig": {
@@ -26,6 +26,8 @@
 	},
 	"devDependencies": {
 		"@hotcakes/core": "^1.5.1",
+		"@semantic-release/changelog": "^6.0.3",
+		"@semantic-release/git": "^10.0.1",
 		"@types/react": "^18.2.18",
 		"@types/react-dom": "^18.2.7",
 		"eslint": "^8.46.0",
