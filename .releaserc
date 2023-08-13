@@ -1,1 +1,1 @@
-extends: "@hotcakes-core/release.config.js"
+extends: "@hotcakes/core/release.config.cjs"

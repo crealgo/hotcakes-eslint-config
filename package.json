@@ -7,6 +7,9 @@
 		"access": "public",
 		"tag": "latest"
 	},
+	"scripts": {
+		"deploy": "npx dotenv npx semantic-release"
+	},
 	"dependencies": {
 		"@rushstack/eslint-patch": "1.x",
 		"@typescript-eslint/eslint-plugin": "6.x",
@@ -22,7 +25,7 @@
 		"xo": "0.x"
 	},
 	"devDependencies": {
-		"@hotcakes/core": "^1.5.0",
+		"@hotcakes/core": "^1.5.1",
 		"@types/react": "^18.2.18",
 		"@types/react-dom": "^18.2.7",
 		"eslint": "^8.46.0",
