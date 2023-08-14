@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/crealgo/hotcakes-eslint-config/compare/v1.0.1...v1.0.2) (2023-08-14)
+
+
+### Bug Fixes
+
+* force release ([3795c77](https://github.com/crealgo/hotcakes-eslint-config/commit/3795c779a9359c98e377b4b68adf04bf7d5c8d4d))
+
 # 1.0.0 (2023-08-14)
 
 
