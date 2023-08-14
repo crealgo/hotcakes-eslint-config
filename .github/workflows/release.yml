@@ -1,4 +1,4 @@
-name: Release Hotcakes Core
+name: Release Hotcakes ESLint Config
 
 on:
   push:
