@@ -11,7 +11,7 @@
 		".": "./src/index.cjs",
 		"./react": "./src/react.cjs"
 	},
-	"repository": "https://github.com/crealgo/hotcakes-core.git",
+	"repository": "https://github.com/crealgo/hotcakes-eslint-config.git",
 	"author": "Crealgo, LLC <hello.crealgo@gmail.com> (https://crealgo.com)",
 	"license": "ISC",
 	"dependencies": {
