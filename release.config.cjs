@@ -1,3 +1,1 @@
-module.exports = {
-	extends: '@hotcakes/core/release-config',
-};
+module.exports = require('@hotcakes/core/release-config');
