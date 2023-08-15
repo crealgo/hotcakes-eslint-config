@@ -1,3 +1,12 @@
+## [1.0.5](https://github.com/crealgo/hotcakes-eslint-config/compare/v1.0.4...v1.0.5) (2023-08-15)
+
+
+### Bug Fixes
+
+* fix extends path ([c4f4ae6](https://github.com/crealgo/hotcakes-eslint-config/commit/c4f4ae64c1dfb3088ce5833d725f26a6dfb81b46))
+* implement hacky extend ([f18b30b](https://github.com/crealgo/hotcakes-eslint-config/commit/f18b30bee3021b497e5e45ab611b80b8185780bd))
+* rely on hotcakes-core release ([5775f56](https://github.com/crealgo/hotcakes-eslint-config/commit/5775f56bc0fdb7f99f71267beae993b883860f2d))
+
 ## [1.0.4](https://github.com/crealgo/hotcakes-eslint-config/compare/v1.0.3...v1.0.4) (2023-08-15)
 
 
