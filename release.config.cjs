@@ -1,3 +1,3 @@
 module.exports = {
-	extends: '@hotcakes/core/release.config.cjs',
+	extends: '@hotcakes/core/release-config',
 };
