@@ -1,3 +1,10 @@
+## [1.0.4](https://github.com/crealgo/hotcakes-eslint-config/compare/v1.0.3...v1.0.4) (2023-08-15)
+
+
+### Bug Fixes
+
+* revert github workflow ([a19b65d](https://github.com/crealgo/hotcakes-eslint-config/commit/a19b65d3ade97e3cdc7053e8abda58f868e079b9))
+
 ## [1.0.3](https://github.com/crealgo/hotcakes-eslint-config/compare/v1.0.2...v1.0.3) (2023-08-15)
 
 
