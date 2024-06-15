@@ -26,6 +26,17 @@
 		"eslint-plugin-react-hooks": "^4.6.0",
 		"xo": "^0.56.0"
 	},
+	"bundleDependencies": [
+		"@typescript-eslint/eslint-plugin",
+		"@typescript-eslint/parser",
+		"eslint-config-typescript",
+		"eslint-config-xo",
+		"eslint-config-xo-react",
+		"eslint-config-xo-typescript",
+		"eslint-plugin-react",
+		"eslint-plugin-react-hooks",
+		"xo"
+	],
 	"peerDependencies": {
 		"eslint": "^8.57.0"
 	},
