@@ -1,3 +1,16 @@
+## [1.0.6](https://github.com/crealgo/hotcakes-eslint-config/compare/v1.0.5...v1.0.6) (2024-06-15)
+
+
+### Bug Fixes
+
+* revert name to config ([e75151c](https://github.com/crealgo/hotcakes-eslint-config/commit/e75151c15b693f3e91e348017aa686475b9307bc))
+* update pkg to point at index ([5970075](https://github.com/crealgo/hotcakes-eslint-config/commit/5970075320fcfd23a0382f0a6f20d36381460fb5))
+
+
+### Performance Improvements
+
+* update lock file ([ea91a99](https://github.com/crealgo/hotcakes-eslint-config/commit/ea91a99ed83bf762cb183997db5c019fc3111ee2))
+
 ## [1.0.5](https://github.com/crealgo/hotcakes-eslint-config/compare/v1.0.4...v1.0.5) (2023-08-15)
 
 
