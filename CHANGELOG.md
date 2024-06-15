@@ -1,3 +1,10 @@
+## [1.0.10](https://github.com/crealgo/hotcakes-eslint-config/compare/v1.0.9...v1.0.10) (2024-06-15)
+
+
+### Bug Fixes
+
+* bundle deps ([dbb33e8](https://github.com/crealgo/hotcakes-eslint-config/commit/dbb33e8dd007a8f6ef7c16ab50f1bad29378f75f))
+
 ## [1.0.9](https://github.com/crealgo/hotcakes-eslint-config/compare/v1.0.8...v1.0.9) (2024-06-15)
 
 
