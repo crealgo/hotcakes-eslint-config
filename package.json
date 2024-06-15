@@ -27,6 +27,7 @@
 		"eslint": "^8.57.0"
 	},
 	"devDependencies": {
+		"@semantic-release/changelog": "^6.0.3",
 		"@semantic-release/git": "^10.0.1"
 	}
 }
