@@ -4,7 +4,6 @@ run-name: Release ${{ github.event.repository.name }}
 on:
   push:
     branches: [main]
-  workflow_dispatch:
 
 jobs:
   release:
@@ -33,9 +32,6 @@ jobs:
 
       - name: Install Dependencies
         if: steps.cache.outputs.cache-hit != 'true'
-        run: /install.sh
-
-      - name: Install dependencies
         run: npm ci
 
       - name: Release
