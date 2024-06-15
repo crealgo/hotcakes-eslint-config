@@ -1,5 +1,5 @@
 {
-	"name": "@hotcakes/eslint-plugin",
+	"name": "@hotcakes/eslint-config",
 	"version": "1.0.7",
 	"publishConfig": {
 		"access": "public"
