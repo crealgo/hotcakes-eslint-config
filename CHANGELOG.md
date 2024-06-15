@@ -1,3 +1,10 @@
+## [1.0.9](https://github.com/crealgo/hotcakes-eslint-config/compare/v1.0.8...v1.0.9) (2024-06-15)
+
+
+### Performance Improvements
+
+* add bundled dependencies ([284d6cf](https://github.com/crealgo/hotcakes-eslint-config/commit/284d6cf49311e9bd7409f9340b6a4f9cc20df687))
+
 ## [1.0.8](https://github.com/crealgo/hotcakes-eslint-config/compare/v1.0.7...v1.0.8) (2024-06-15)
 
 
