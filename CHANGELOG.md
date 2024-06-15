@@ -1,3 +1,10 @@
+## [1.0.8](https://github.com/crealgo/hotcakes-eslint-config/compare/v1.0.7...v1.0.8) (2024-06-15)
+
+
+### Performance Improvements
+
+* fix package name ([a2e20e5](https://github.com/crealgo/hotcakes-eslint-config/commit/a2e20e59d7eb78fe44111ad6366e7a1594b10cc9))
+
 ## [1.0.7](https://github.com/crealgo/hotcakes-eslint-config/compare/v1.0.6...v1.0.7) (2024-06-15)
 
 
