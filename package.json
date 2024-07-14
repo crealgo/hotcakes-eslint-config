@@ -4,17 +4,17 @@
 	"publishConfig": {
 		"access": "public"
 	},
+	"type": "module",
 	"files": [
 		"src"
 	],
-	"main": "src/index.cjs",
-	"module": "src/index.mjs",
-	"repository": {
-		"type": "git",
-		"url": "git+https://github.com/crealgo/hotcakes-eslint-config.git"
-	},
+	"main": "src/index.js",
+	"repository": "https://github.com/crealgo/hotcakes-eslint-config.git",
 	"author": "Crealgo, LLC <hello.crealgo@gmail.com> (https://crealgo.com)",
 	"license": "MIT",
+	"release": {
+		"extends": "@hotcakes/release-config"
+	},
 	"dependencies": {
 		"@typescript-eslint/eslint-plugin": "^7.13.0",
 		"@typescript-eslint/parser": "^7.13.0",
@@ -23,25 +23,15 @@
 		"eslint-config-xo-react": "^0.27.0",
 		"eslint-config-xo-typescript": "^4.0.0",
 		"eslint-plugin-react": "^7.33.1",
-		"eslint-plugin-react-hooks": "^4.6.0",
-		"xo": "^0.56.0"
+		"eslint-plugin-react-hooks": "^4.6.0"
 	},
-	"bundleDependencies": [
-		"@typescript-eslint/eslint-plugin",
-		"@typescript-eslint/parser",
-		"eslint-config-typescript",
-		"eslint-config-xo",
-		"eslint-config-xo-react",
-		"eslint-config-xo-typescript",
-		"eslint-plugin-react",
-		"eslint-plugin-react-hooks",
-		"xo"
-	],
 	"peerDependencies": {
 		"eslint": "^8.57.0"
 	},
 	"devDependencies": {
+		"@hotcakes/release-config": "^1.2.0",
 		"@semantic-release/changelog": "^6.0.3",
-		"@semantic-release/git": "^10.0.1"
+		"@semantic-release/git": "^10.0.1",
+		"eslint": "^8.57.0"
 	}
 }
