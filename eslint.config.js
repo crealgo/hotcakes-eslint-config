@@ -1,15 +1,11 @@
-{
-	"env": {
-		"browser": true,
-		"es2021": true,
-		"node": true
+module.exports = {
+	env: {
+		browser: true,
+		es2021: true,
+		node: true,
 	},
-	"extends": [
-		"xo",
-		"xo-react",
-		"xo-typescript"
-	],
-	"rules": {
+	extends: ["xo", "xo-react", "xo-typescript"],
+	rules: {
 		"no-alert": "off",
 		"capitalized-comments": "off",
 		"react/boolean-prop-naming": "off",
@@ -22,10 +18,7 @@
 		"react/no-unescaped-entities": "off",
 		"react/require-default-props": "off",
 		"@typescript-eslint/no-require-imports": "off",
-		"@typescript-eslint/no-var-requires": "off"
+		"@typescript-eslint/no-var-requires": "off",
 	},
-	"ignorePatterns": [
-		"node_modules",
-		"dist"
-	]
-}
+	ignorePatterns: ["node_modules", "dist"],
+};

@@ -7,7 +7,7 @@
 	"files": [
 		"src"
 	],
-	"main": "src/index.js",
+	"exports": "./eslint.config.js",
 	"repository": {
 		"type": "git",
 		"url": "git+https://github.com/crealgo/hotcakes-eslint-config.git"
