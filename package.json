@@ -9,7 +9,10 @@
 		"src"
 	],
 	"main": "src/index.js",
-	"repository": "https://github.com/crealgo/hotcakes-eslint-config.git",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/crealgo/hotcakes-eslint-config.git"
+	},
 	"author": "Crealgo, LLC <hello.crealgo@gmail.com> (https://crealgo.com)",
 	"license": "MIT",
 	"release": {
