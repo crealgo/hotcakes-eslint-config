@@ -4,6 +4,9 @@ on:
   push:
     branches: [main, next]
 
+permissions:
+  contents: write
+
 jobs:
   semantic-release:
     uses: crealgo/hotcakes-release-config/.github/workflows/semantic-release.yaml@main
