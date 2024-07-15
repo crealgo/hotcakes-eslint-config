@@ -1,12 +1,9 @@
 {
 	"name": "@hotcakes/eslint-config",
-	"version": "1.0.10",
+	"version": "0.0.0-semantically-released",
 	"publishConfig": {
 		"access": "public"
 	},
-	"files": [
-		"src"
-	],
 	"exports": "./eslint.config.js",
 	"author": "Crealgo, LLC <hello.crealgo@gmail.com> (https://crealgo.com)",
 	"license": "MIT",
