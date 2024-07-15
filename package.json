@@ -7,6 +7,7 @@
 	"exports": "./eslint.config.js",
 	"author": "Crealgo, LLC <hello.crealgo@gmail.com> (https://crealgo.com)",
 	"license": "MIT",
+	"files": ["./eslint.config.js"],
 	"release": {
 		"extends": "@hotcakes/release-config"
 	},
